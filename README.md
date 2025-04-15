@@ -17,3 +17,8 @@ This project helped me understand the core fundamentals of Python like if statem
    ```bash
    python text_adventure_game.py
    https://github.com/THINUKSHAN
+## Project URL
+Check out the project repository: [Text Adventure Game Repository](https://github.com/THINUKSHAN/python-exploration)
+
+## Author
+[Thinu](https://github.com/THINUKSHAN)
